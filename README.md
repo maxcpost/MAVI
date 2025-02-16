@@ -1,4 +1,3 @@
-MAVI
 # PDF Text Extractor
 
 ## Overview
